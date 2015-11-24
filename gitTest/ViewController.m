@@ -17,7 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSString * str;
+   
+    NSString * changeStr;
     // Do any additional setup after loading the view, typically from a nib.
 }
 
